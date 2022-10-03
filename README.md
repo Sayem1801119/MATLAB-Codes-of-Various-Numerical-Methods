@@ -1,1 +1,1 @@
-# projects
+The MATLAB codes of some numerical methods are attached in this folder.
