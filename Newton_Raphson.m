@@ -1,6 +1,6 @@
 clc;
 clear all;
-%Solution of the algebraic and transcendental equation using Newton-Raphson method
+%Solution of the algebraic and transcendental equations using Newton-Raphson method
 syms x
 %Please input the function
 f(x)=input('Please input the function,f(x)=');
