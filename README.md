@@ -16,7 +16,7 @@ Each folder in the repository contains a MATLAB script (.m) file for the corresp
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the Creative Commons Zero v1.0 Universal License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgments
 
@@ -24,4 +24,4 @@ We would like to acknowledge the contributions of the academic community in the 
 
 ## Contact
 
-For any questions, suggestions, or collaborations, please feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions, suggestions, or collaborations, please feel free to reach out at [s4abusayem@gmail.com](mailto:s4abusayem@gmail.com).
